@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @VictorTrustyDev
-- 👀 I’m interested in software and blockchain development
-- 📫 Contact: me@victortrusty.dev
+- 👋 Hi, I’m Evmos Blockchain Explorer a.k.a Escan
+- 👋 Hi, I’m Victor
 
 <!---
 VictorTrustyDev/VictorTrustyDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
