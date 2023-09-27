@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Evmos Blockchain Explorer a.k.a Escan
-- 👋 Hi, I’m Victor
+👋 Hi, it's very nice to see you here ✨
+
+🤝 I'm Victor from 🇻🇳
 
 <!---
 VictorTrustyDev/VictorTrustyDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
